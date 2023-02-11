@@ -15,7 +15,7 @@
     &:focus{
         color:var(--accent-color);
     }  }
-    .nav__link__active{
+    .nav__link--active{
         position: relative;
         display: inline-block;
     color: var(--accent-color);
